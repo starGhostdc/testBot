@@ -1,4 +1,4 @@
-**Bot Developer interview.**
+- **Bot Developer interview.**
 
 1. Create a java application and make sure to use maven, add the JDA dependency to the application
 2. Make small antispam system - I want you then to create another class and register it as a listener and listen to whenever a new message is received. If the user has sent more than 5 messages in the last 2 seconds, I want you to ban him, if it's less than 5, increment by one to the cache. I want the cache to expire every 3 seconds though.
